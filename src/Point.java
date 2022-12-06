@@ -21,6 +21,7 @@ public class Point {
 
     public String toString() {
         return "("+x+","+y+")";
+
     }
 
     public void moveTo(int x, int y) {
